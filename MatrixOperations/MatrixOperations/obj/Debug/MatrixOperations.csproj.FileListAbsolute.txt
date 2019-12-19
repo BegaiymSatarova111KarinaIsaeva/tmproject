@@ -1,0 +1,80 @@
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Resources\MainDictionary.baml
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\App.baml
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.g.cs
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.g.cs
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\App.g.cs
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.cache
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.lref
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.baml
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.g.cs
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.baml
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.baml
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.g.resources
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.Cache
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
+D:\разное\orders\Марина Коваленко\Лабораторная №2\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Resources\MainDictionary.baml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.baml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\App.baml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\App.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.cache
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.lref
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.baml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.baml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.g.resources
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.Cache
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\ControlzEx.dll
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.dll
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\System.Windows.Interactivity.dll
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\ControlzEx.pdb
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.pdb
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.xml
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\ResultMatrixView.g.cs
+D:\Костя\заказы\14.04.18\Марина Коваленко\Мультимедия\MatrixOperations\MatrixOperations\obj\Debug\Views\ResultMatrixView.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\ControlzEx.dll
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.dll
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\ControlzEx.pdb
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.pdb
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\bin\Debug\MahApps.Metro.xml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Resources\MainDictionary.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\App.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\ResultMatrixView.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\Window1.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.cache
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations_MarkupCompile.lref
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\MainView.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\MatrixView.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\Views\ResultMatrixView.baml
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.g.resources
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.CopyComplete
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+C:\Users\acer\Desktop\wpf project\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
